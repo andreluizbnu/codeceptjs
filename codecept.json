@@ -1,0 +1,14 @@
+{
+  "tests": "tests/*_test.js",
+  "timeout": 10000,
+  "output": "./output",
+  "helpers": {
+    "Nightmare": {
+      "show":true
+    }
+  },
+  "include": {},
+  "bootstrap": false,
+  "mocha": {},
+  "name": "repo"
+}
